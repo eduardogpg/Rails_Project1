@@ -52,4 +52,14 @@ gem "bootstrap-sass" , '~> 3.0.2.1'
 
 gem "devise", '~> 3.4.0'
 
+gem "font-awesome-rails", '~>4.0.0'
+
+gem  "omniauth"
+#Instalación del mddleware de facebook
+gem 'omniauth-facebook'
+
+
+
+
+
 
